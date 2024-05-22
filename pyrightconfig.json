@@ -1,0 +1,28 @@
+{
+    "include": ["./"],
+    "exclude": ["**/__pycache__"],
+    "ignore": [],
+  
+    "reportGeneralTypeIssues": true,
+    "reportMissingTypeArgument": true,
+    "reportMissingImports": true,
+    "reportMissingReturns": true,
+    "reportOptionalMemberAccess": true,
+    "reportOptionalCall": true,
+    "reportOptionalIterable": true,
+    "reportOptionalContextManager": true,
+    "reportOptionalOperand": true,
+    "reportUntypedBaseClass": true,
+    "reportUntypedNamedTuple": true,
+    "useLibraryCodeForTypes": true,
+    "typeCheckingMode": "strict",
+  
+    "pythonVersion": "3.10",
+    "pythonPlatform": "Linux",
+    "executionEnvironments": [
+      {
+        "root": "./"
+      }
+    ]
+  }
+  
